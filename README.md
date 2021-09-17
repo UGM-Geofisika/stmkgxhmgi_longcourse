@@ -3,9 +3,11 @@
 ## *"Geophysical Python for Seismic Data Analysis"*
 
 **Instruktur:**
+
 Wiwit Suryanto
 
 **Prepared by:**
+
 Anang Sahroni
 
 
