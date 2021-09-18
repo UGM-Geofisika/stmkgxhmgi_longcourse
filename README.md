@@ -23,7 +23,7 @@ Zoom Meeting
 **Agenda:**
 Memberikan wawasan kepada mahasiswa Geofisika dalam pengolahan data Geofisika: pemrosesan data seismik menggunakan python.
 
-## Luaran
+## Course Outcome 
 1. Peserta dapat melakukan instalasi Python
 2. Peserta dapat membuat dan menggunakan Jupyter Notebook
 3. Peserta dapat membaca, memfilter, dan mengeplot peta dan statistik gempa bumi menggunakan modul umum Python seperti `numpy`, `scipy`, dan `matplotlib`
